@@ -10,6 +10,10 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+public
+.eslintrc.cjs
+React-LocalStorage.png
+vite.config.js
 *.local
 
 # Editor directories and files
